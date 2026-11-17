@@ -1,0 +1,124 @@
+{
+  "schema": 1,
+  "syntheticOnly": true,
+  "payload": {
+    "approvalId": "9a7c09b1099e4aa1b802e2d0060a0001",
+    "baseVersion": 0,
+    "version": 1,
+    "draft": {
+      "month": "2099-01",
+      "order": [
+        "synthetic_a",
+        "synthetic_b"
+      ],
+      "off": [],
+      "shift": {
+        "work": [
+          "08:00",
+          "20:00"
+        ],
+        "off": [
+          "08:00",
+          "08:00"
+        ]
+      },
+      "duty": {
+        "2099-01-01": [
+          "synthetic_a"
+        ],
+        "2099-01-02": [
+          "synthetic_b"
+        ],
+        "2099-01-03": [
+          "synthetic_a"
+        ],
+        "2099-01-04": [
+          "synthetic_b"
+        ],
+        "2099-01-05": [
+          "synthetic_a"
+        ],
+        "2099-01-06": [
+          "synthetic_b"
+        ],
+        "2099-01-07": [
+          "synthetic_a"
+        ],
+        "2099-01-08": [
+          "synthetic_b"
+        ],
+        "2099-01-09": [
+          "synthetic_a"
+        ],
+        "2099-01-10": [
+          "synthetic_b"
+        ],
+        "2099-01-11": [
+          "synthetic_a"
+        ],
+        "2099-01-12": [
+          "synthetic_b"
+        ],
+        "2099-01-13": [
+          "synthetic_a"
+        ],
+        "2099-01-14": [
+          "synthetic_b"
+        ],
+        "2099-01-15": [
+          "synthetic_a"
+        ],
+        "2099-01-16": [
+          "synthetic_b"
+        ],
+        "2099-01-17": [
+          "synthetic_a"
+        ],
+        "2099-01-18": [
+          "synthetic_b"
+        ],
+        "2099-01-19": [
+          "synthetic_a"
+        ],
+        "2099-01-20": [
+          "synthetic_b"
+        ],
+        "2099-01-21": [
+          "synthetic_a"
+        ],
+        "2099-01-22": [
+          "synthetic_b"
+        ],
+        "2099-01-23": [
+          "synthetic_a"
+        ],
+        "2099-01-24": [
+          "synthetic_b"
+        ],
+        "2099-01-25": [
+          "synthetic_a"
+        ],
+        "2099-01-26": [
+          "synthetic_b"
+        ],
+        "2099-01-27": [
+          "synthetic_a"
+        ],
+        "2099-01-28": [
+          "synthetic_b"
+        ],
+        "2099-01-29": [
+          "synthetic_a"
+        ],
+        "2099-01-30": [
+          "synthetic_b"
+        ],
+        "2099-01-31": [
+          "synthetic_a"
+        ]
+      },
+      "marks": []
+    }
+  },
+  "payloadHash": "b0e0e34c421a1cb9667fa60d9f890c06ffd256e60a1318a61fc41a4f42897ff7"
+}
